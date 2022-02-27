@@ -1,0 +1,97 @@
+body{
+    box-sizing: border-box;
+    font-family: "Roboto", "sans-serif";
+    margin: 0;
+    padding: 0;
+    color:#3E3E3E ;
+    background-color: #000000da;
+    line-height: 20px;
+}
+.banner-content h1{
+font-family:  'Bebas Neue', cursive;
+font-size: 80px;
+}
+.p-tag{
+    font-family:"sans-serif";
+    font-size:20px ;
+}
+.heading-span1{
+    color: aliceblue;
+}
+.heading-span2{
+    color:#FABE4C;
+}
+.banner{
+    background-color: rgba(82, 3, 3, 0.877);
+}
+.buy-btn{
+    background-color: #FABE4C;
+    border: none;
+    font-size: 22px;
+    font-weight:400;
+}
+.buy-btn:hover{
+    background-color: lightgreen;
+}
+.h-one{
+    background-color: rgba(82, 3, 3, 0.877);
+}
+.bg-color{
+    background-color: rgba(82, 3, 3, 0.877);
+}
+.h-two{
+    background-color: rgba(82, 3, 3, 0.877);
+}
+.insta{
+   font-size: 100px;
+    color: white;
+}
+.h-3{
+    color: white;
+}
+.contact{
+    background-color: black;
+}
+.h-4{
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* font-family: 'Roboto', sans-serif; */
+/* font-family: 'Bebas Neue', cursive; */
